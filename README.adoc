@@ -1,0 +1,38 @@
+= HCK4ZRH
+
+Hack for Zurich (HCK4ZRH) is an initiative of the city of Zurich and the community to promote an open and shared IoT infrastructure. 
+
+== Status
+
+Initial collection of rough ideas.
+
+== Goals.
+
+* Work towards a reliable, shared and open infrastructure for organizations and individuals
+* The infrastructure is to be made available to interested organizations and individuals
+* Context: Smart City/Open Data
+
+== Ideas
+
+* Define/setup demo infrastructure
+* Collect real live use cases from the city and quartiervereine
+* Promote the goals of an open and shared IoT infrastructure with a 6 months hacker challenge
+** Have an initial Kick-Off event where participants meet and form initial teams
+** Have a demo event 6 months later where "surviving" teams present their use cases
+* Demonstrate the ability to implement real world use cases 
+* Use successful use cases to further promote the goals
+
+== TODOs
+
+* Identify interested stakeholders from the city and quartiervereine with real world challenges 
+* Decide for demo infrastructure (current favorite: TTN/Loriot)
+* Decide on context and requirements for such a challenge
+* Check existing TTN efforts regarding security review (for potentially operating the platform on city infra)
+* Get proposals for marketing such an event
+* Checking feasibility of shared infrastructure: TTN Gateways and Loriot Gateways forwarding packets to both backends
+* Checking media interest for such a hacker challange
+* Check community interest for such a challenge (IoT, Java, JavaScript, Open Data)
+
+=== AsciiDoctor Format
+
+This document is written in the http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoctor] format. 
