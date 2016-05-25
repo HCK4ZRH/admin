@@ -6,7 +6,7 @@ Hack for Zurich (HCK4ZRH) is an initiative of the city of Zurich and the communi
 
 Initial collection of rough ideas.
 
-== Goals.
+== Goals
 
 * Improve the city of Zurich with smart ideas and technology
 * Work towards a reliable, shared and open infrastructure for organizations and individuals
