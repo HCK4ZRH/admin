@@ -1,6 +1,6 @@
 = HCK4ZRH
 
-Hack for Zurich (HCK4ZRH) is an initiative of the city of Zurich and the community to promote an open and shared IoT infrastructure. 
+Hack for Zurich (HCK4ZRH) is an initiative of the city of Zurich and the community to promote an open and shared IoT infrastructure and data exchange. 
 
 == Status
 
@@ -8,6 +8,7 @@ Initial collection of rough ideas.
 
 == Goals.
 
+* Improve the city of Zurich with smart ideas and technology
 * Work towards a reliable, shared and open infrastructure for organizations and individuals
 * The infrastructure is to be made available to interested organizations and individuals
 * Context: Smart City/Open Data
