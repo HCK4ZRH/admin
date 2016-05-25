@@ -27,11 +27,14 @@ Initial collection of rough ideas.
 * Identify interested stakeholders from the city and quartiervereine with real world challenges 
 * Decide for demo infrastructure (current favorite: TTN/Loriot)
 * Decide on context and requirements for such a challenge
-* Check existing TTN efforts regarding security review (for potentially operating the platform on city infra)
 * Get proposals for marketing such an event
 * Checking feasibility of shared infrastructure: TTN Gateways and Loriot Gateways forwarding packets to both backends
 * Checking media interest for such a hacker challange
 * Check community interest for such a challenge (IoT, Java, JavaScript, Open Data)
+
+== Completed TODOs
+* Check existing TTN efforts regarding security review (for potentially operating the platform on city infra):
+  - Johan Stokking (tech lead of TTN Global) confirmed that they will have an audit done by [Deloitte](http://deloitte.com/ch/en.html).
 
 === AsciiDoctor Format
 
