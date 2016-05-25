@@ -35,7 +35,7 @@ Initial collection of rough ideas.
 
 == Completed TODOs
 * Check existing TTN efforts regarding security review (for potentially operating the platform on city infra):
-  - Johan Stokking (tech lead of TTN Global) confirmed that they will have an audit done by [Deloitte](http://deloitte.com/ch/en.html).
+  - Johan Stokking (tech lead of TTN Global) confirmed that they will have an audit done by http://deloitte.com/ch/en.html[Deloitte].
 
 === AsciiDoctor Format
 
