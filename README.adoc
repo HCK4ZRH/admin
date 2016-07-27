@@ -51,7 +51,7 @@ Initial planning.
 * Identify interested stakeholders from the city and quartiervereine with real world challenges
 ** Quartiervereine representatives will discuss the topic beginning of September
 ** More stakeholders from city administration should step in.
-* Get proposals for marketing such an event
+* Get proposals for marketing such an event. See link:marketing-ideas.adoc[this here for some ideas for a logo].
 * Decide infrastructure/network. Ideally a merged TTN + Loriot network.
 * Decide on context and requirements for such a challenge
 * Checking feasibility of shared infrastructure: TTN Gateways and Loriot Gateways forwarding packets to both backends
