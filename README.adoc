@@ -1,10 +1,11 @@
-= HCK4ZRH
+= LoRaWAN hacker/maker event
 
-Hack for Zurich (HCK4ZRH) is an initiative of the city of Zurich and the community to promote an open and shared IoT infrastructure and data exchange. 
+This is an initiative of the city of Zurich and the community to promote an open and shared IoT infrastructure and data exchange.
+We initially suggested the name `Hack for Zurich` (HCK4ZRH), but now are considering alternatives, such as `Make Zurich`.
 
 == Status
 
-Initial collection of rough ideas.
+Initial planning.
 
 == Goals
 
@@ -16,26 +17,54 @@ Initial collection of rough ideas.
 == Ideas
 
 * Define/setup demo infrastructure
-* Collect real live use cases from the city and quartiervereine
-* Promote the goals of an open and shared IoT infrastructure with a 6 months hacker challenge
-** Have an initial Kick-Off event where participants meet and form initial teams
-** Have a demo event 6 months later where "surviving" teams present their use cases
-* Demonstrate the ability to implement real world use cases 
+* Collect real world use cases from the city and quartiervereine
+* Besides the real world use cases, there should always be a 'free track' to hack on any other problem
+* Promote the goals of an open and shared IoT infrastructure with a hacker/maker challenge
+* Demonstrate the ability to implement real world use cases
 * Use successful use cases to further promote the goals
+
+== Next meeting
+
+* 1st week of September (tentative)
 
 == TODOs
 
-* Identify interested stakeholders from the city and quartiervereine with real world challenges 
-* Decide for demo infrastructure (current favorite: TTN/Loriot)
-* Decide on context and requirements for such a challenge
+* Define name for the event. The options discussed so far are:
+** `Hack for Zurich` (HCK4ZRH): This was the initial proposal, but it might be too close to `Hack Zurich` (the hackathon taking place 16-18 September, and marketed as the largest in Europe).
+** `Hack the city` was suggested at first as well, but it is a bit overused by now. It also has a slight negative connotation which is hard for people outside the community to understand.
+** `Make Zurich` is a new proposal. It has a more possitive tone to it, and it leverages the *maker movement* as a primary component of it.
+* Define format of the event. The options discussed so far are:
+** Long (6-month) event:
+*** Have an initial Kick-Off event where use cases are presented, participants meet and form initial teams
+*** Have a demo event 6 months later where "surviving" teams present their use cases
+*** Pro: might give enough time to build complete solutions
+*** Con: energy will disipate and a lot of teams might abandon
+** Presentation of use cases + Hackathon (1-week event):
+*** Have an initial kick-off one week before the event where use cases are presented, participants meet and form initial teams
+*** Have a full-weekend hackathon a week after the initial kick-off
+*** Pro: gives a bit of extra time to prepare and buy hardware/parts, preserves the high energy momentum of traditional hackathons
+*** Con: solutions might not be as polished as a longer challenge/event
+** Hackathon (1 weekend):
+*** Traditional hackathon format, with use case presentations followed by a full weekend of hacking.
+*** Pro: it's a format that might be more familiar to some
+*** Con: the outcome is likely to be hacky, less usable solutions
+* Identify interested stakeholders from the city and quartiervereine with real world challenges
+** Quartiervereine representatives will discuss the topic beginning of September
+** More stakeholders from city administration should step in.
 * Get proposals for marketing such an event
+* Decide infrastructure/network. Ideally a merged TTN + Loriot network.
+* Decide on context and requirements for such a challenge
 * Checking feasibility of shared infrastructure: TTN Gateways and Loriot Gateways forwarding packets to both backends
+* Decide location: current suggestion is a smaller, cozier location, like the Impact Hub Zurich. An alternative would be a city/ewz location.
+* Setup storage and visualization infrastructure (@gonzalocasas)
 * Checking media interest for such a hacker challange
-* Check community interest for such a challenge (IoT, Java, JavaScript, Open Data)
+
 
 == Completed TODOs
 * Check existing TTN efforts regarding security review (for potentially operating the platform on city infra):
   - Johan Stokking (tech lead of TTN Global) confirmed that they will have an audit done by http://deloitte.com/ch/en.html[Deloitte].
+* Check community interest for such a challenge (IoT, Java, JavaScript, Open Data)
+  - Community is definitely up for it. Six members of the community signed up to help out. There's a group forming on TTN-CH Slack for this purpose.
 
 === AsciiDoctor Format
 
