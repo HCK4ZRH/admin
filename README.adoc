@@ -1,7 +1,6 @@
-= LoRaWAN hacker/maker event
+= Make Zurich: LoRaWAN hacker/maker event
 
 This is an initiative of the city of Zurich and the community to promote an open and shared IoT infrastructure and data exchange.
-We initially suggested the name `Hack for Zurich` (HCK4ZRH), but now are considering alternatives, such as `Make Zurich`.
 
 == Status
 
@@ -25,40 +24,78 @@ Initial planning.
 
 == Next meeting
 
-* 1st week of September (tentative)
+* 26th September, 17:00 @ Impact Hub Zurich, Auer & Co. Cafe
+
+== Summary
+
+=== Name
+The event is called `Make Zurich`. It has a more possitive tone to it than `Hack x` and it leverages the *maker movement* as a primary component of it.
+
+=== Date
+The **tentative** date of the event is end of January 2017.
+
+=== Location
+Impact Hub Zurich
+
+=== Format
+The event extends for one full week using the following structure:
+
+==== Event kickoff: Friday 27th January
+
+The event starts with a presentation of use cases (challenges) by the City of Zurich and other stakeholders (e.g. Quartiervereine) on Friday afternoon. The hardware components required for the various challenges is made available to participants.
+
+Presentations are followed by an apero where participants can meet and form teams.
+
+Team registration is open until the end of the evening.
+
+==== Open Lab week
+
+From Saturday to next Friday evening (inclusive), an OpenLab week is be available at the Impact Hub Zurich (perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?).
+
+Participants can walk-in, use the facilities and work on their projects, but there won't be an active tutoring/mentoring in-place.
+
+==== Hackathon: Saturday 3rd and Sunday 4th February
+
+On Saturday morning, a more intense session begins: following more traditional hackathon schedules, participants get together to work on their projects for the weekend (maybe 32-hours? starting on Sat 8:00, ending on Sun 16:00?), after which the event closes on Sunday afternoon with the presentation of all projects.
+
+=== Use cases
+
+Still in progress. The initial list consists of:
+
+* EWZ:
+** EWZ Solar box
+** EWZ Water box
+** EWZ E-Bike box
+** VBZ Tram stop box (can be split into three)
+** TAZ Bus parking detection
+* Open Data Zurich
+** Noise level measurements for Police-Bar owners-Neighbours mediation
+** Public Freibad/Hallenbad occupation levels
+** Air quality sensors to complement existing network (calibrate many low cost ones with few high end ones)
+** .... TBC
+* TTN Community
+** Schrebergarten monitoring
+** Public weather station
+
+=== Infrastructure
+
+The community network of The Things Network Zurich is used as communication link to implement use cases.
+
+A storage and visualization infrastructure (potentially based on Grafana) will be provided for the participants.
 
 == TODOs
-
-* Define name for the event. The options discussed so far are:
-** `Hack for Zurich` (HCK4ZRH): This was the initial proposal, but it might be too close to `Hack Zurich` (the hackathon taking place 16-18 September, and marketed as the largest in Europe).
-** `Hack the city` was suggested at first as well, but it is a bit overused by now. It also has a slight negative connotation which is hard for people outside the community to understand.
-** `Make Zurich` is a new proposal. It has a more possitive tone to it, and it leverages the *maker movement* as a primary component of it.
-* Define format of the event. The options discussed so far are:
-** Long (6-month) event:
-*** Have an initial Kick-Off event where use cases are presented, participants meet and form initial teams
-*** Have a demo event 6 months later where "surviving" teams present their use cases
-*** Pro: might give enough time to build complete solutions
-*** Con: energy will disipate and a lot of teams might abandon
-** Presentation of use cases + Hackathon (1-week event):
-*** Have an initial kick-off one week before the event where use cases are presented, participants meet and form initial teams
-*** Have a full-weekend hackathon a week after the initial kick-off
-*** Pro: gives a bit of extra time to prepare and buy hardware/parts, preserves the high energy momentum of traditional hackathons
-*** Con: solutions might not be as polished as a longer challenge/event
-** Hackathon (1 weekend):
-*** Traditional hackathon format, with use case presentations followed by a full weekend of hacking.
-*** Pro: it's a format that might be more familiar to some
-*** Con: the outcome is likely to be hacky, less usable solutions
-* Identify interested stakeholders from the city and quartiervereine with real world challenges
-** Quartiervereine representatives will discuss the topic beginning of September
-** More stakeholders from city administration should step in.
-* Get proposals for marketing such an event. See link:marketing-ideas.adoc[this here for some ideas for a logo].
-* Decide infrastructure/network. Ideally a merged TTN + Loriot network.
-* Decide on context and requirements for such a challenge
-* Checking feasibility of shared infrastructure: TTN Gateways and Loriot Gateways forwarding packets to both backends
-* Decide location: current suggestion is a smaller, cozier location, like the Impact Hub Zurich. An alternative would be a city/ewz location.
-* Setup storage and visualization infrastructure (@gonzalocasas)
-* Checking media interest for such a hacker challange
-
+* Simon will send Outlook invites for next meeting.
+* Simon will prepare a fact sheet for the EWZ use cases and pass it on to Open Data Zurich
+* Reto and Michael will add Open Data Zurich use cases to it, and pass it on to TTN Community
+* Urs and Gonzalo will add TTN community use cases to it and send back.
+* After fact sheet is ready, Gonzalo will present it to the community team that will be helping out with some of the organization.
+* After feedback, we all will prioritize and decide on a sub-set of use cases, the estimate and budget for them, to enable sourcing all components required with enough time.
+* Simon will confirm with Andreas and Dennis about organization, logistics, budget, etc.
+* Simon/Andreas/Dennis will confirm if we can rent or partner to get some space at the Impact Hub for the OpenLab week. Perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?
+* Gonzalo will arrange the details to get the infrastructure ready, including storage and visualization.
+* Confirm marketing material for the event. We prepared the following: marketing-ideas.adoc[tentative ideas for a logo], but probably we need to go for a more professional design.
+* Check if Decentlab wants to be sponsor. Maybe even sponsor some equipement?
+* Identify interested stakeholders from the city and quartiervereine with real world challenges. Almost done, probably going to be completed with the fact sheet.
 
 == Completed TODOs
 * Check existing TTN efforts regarding security review (for potentially operating the platform on city infra):
