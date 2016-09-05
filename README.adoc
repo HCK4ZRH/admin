@@ -93,7 +93,7 @@ A storage and visualization infrastructure (potentially based on Grafana) will b
 * Simon will confirm with Andreas and Dennis about organization, logistics, budget, etc.
 * Simon/Andreas/Dennis will confirm if we can rent or partner to get some space at the Impact Hub for the OpenLab week. Perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?
 * Gonzalo will arrange the details to get the infrastructure ready, including storage and visualization.
-* Confirm marketing material for the event. We prepared the following: marketing-ideas.adoc[tentative ideas for a logo], but probably we need to go for a more professional design.
+* Confirm marketing material for the event. We prepared the following link:marketing-ideas.adoc[tentative ideas for a logo], but probably we need to go for a more professional design.
 * Check if Decentlab wants to be sponsor. Maybe even sponsor some equipement?
 * Identify interested stakeholders from the city and quartiervereine with real world challenges. Almost done, probably going to be completed with the fact sheet.
 
