@@ -60,22 +60,7 @@ On Saturday morning, a more intense session begins: following more traditional h
 
 === Use cases
 
-Still in progress. The initial list consists of:
-
-* EWZ:
-** EWZ Solar box
-** EWZ Water box
-** EWZ E-Bike box
-** VBZ Tram stop box (can be split into three)
-** TAZ Bus parking detection
-* Open Data Zurich
-** Noise level measurements for Police-Bar owners-Neighbours mediation
-** Public Freibad/Hallenbad occupation levels
-** Air quality sensors to complement existing network (calibrate many low cost ones with few high end ones)
-** .... TBC
-* TTN Community
-** Schrebergarten monitoring
-** Public weather station
+Still in progress. The initial list of challenges can be found [on Google Drive](https://drive.google.com/open?id=0B_DO0nUUQCrhRzBEMzhpVTlHR3M).
 
 === Infrastructure
 
