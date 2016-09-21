@@ -60,7 +60,7 @@ On Saturday morning, a more intense session begins: following more traditional h
 
 === Use cases
 
-Still in progress. The initial list of challenges can be found [on Google Drive](https://drive.google.com/open?id=0B_DO0nUUQCrhRzBEMzhpVTlHR3M).
+Still in progress. The initial list of challenges can be found (on Google Drive)[https://drive.google.com/open?id=0B_DO0nUUQCrhRzBEMzhpVTlHR3M].
 
 === Infrastructure
 
