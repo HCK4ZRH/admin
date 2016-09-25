@@ -69,24 +69,22 @@ The community network of The Things Network Zurich is used as communication link
 A storage and visualization infrastructure (potentially based on Grafana) will be provided for the participants.
 
 == TODOs
-* Simon will send Outlook invites for next meeting.
-* Simon will prepare a fact sheet for the EWZ use cases and pass it on to Open Data Zurich
-* Reto and Michael will add Open Data Zurich use cases to it, and pass it on to TTN Community
-* Urs and Gonzalo will add TTN community use cases to it and send back.
-* After fact sheet is ready, Gonzalo will present it to the community team that will be helping out with some of the organization.
-* After feedback, we all will prioritize and decide on a sub-set of use cases, the estimate and budget for them, to enable sourcing all components required with enough time.
-* Simon will confirm with Andreas and Dennis about organization, logistics, budget, etc.
-* Simon/Andreas/Dennis will confirm if we can rent or partner to get some space at the Impact Hub for the OpenLab week. Perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?
-* Gonzalo will arrange the details to get the infrastructure ready, including storage and visualization.
-* Confirm marketing material for the event. We prepared the following link:marketing-ideas.adoc[tentative ideas for a logo], but probably we need to go for a more professional design.
-* Check if Decentlab wants to be sponsor. Maybe even sponsor some equipment?
-* Identify interested stakeholders from the city and quartiervereine with real world challenges. Almost done, probably going to be completed with the fact sheet.
-
-== Completed TODOs
-* Check existing TTN efforts regarding security review (for potentially operating the platform on city infra):
-  - Johan Stokking (tech lead of TTN Global) confirmed that they will have an audit done by http://deloitte.com/ch/en.html[Deloitte].
-* Check community interest for such a challenge (IoT, Java, JavaScript, Open Data)
-  - Community is definitely up for it. Six members of the community signed up to help out. There's a group forming on TTN-CH Slack for this purpose.
+* [ ] After feedback, we all will prioritize and decide on a sub-set of use cases, the estimate and budget for them, to enable sourcing all components required with enough time.
+* [ ] Simon will confirm with Andreas and Dennis about organization, logistics, budget, etc.
+* [ ] Simon/Andreas/Dennis will confirm if we can rent or partner to get some space at the Impact Hub for the OpenLab week. Perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?
+* [ ] Gonzalo will arrange the details to get the infrastructure ready, including storage and visualization.
+* [ ] Confirm marketing material for the event. We prepared the following link:marketing-ideas.adoc[tentative ideas for a logo], but probably we need to go for a more professional design.
+* [ ] Check if Decentlab wants to be sponsor. Maybe even sponsor some equipment?
+* [ ] Identify interested stakeholders from the city and quartiervereine with real world challenges. Almost done, probably going to be completed with the fact sheet.
+* [x] Simon will send Outlook invites for next meeting.
+* [x] Simon will prepare a fact sheet for the EWZ use cases and pass it on to Open Data Zurich
+* [x] Reto and Michael will add Open Data Zurich use cases to it, and pass it on to TTN Community
+* [x] Urs and Gonzalo will add TTN community use cases to it and send back.
+* [x] After fact sheet is ready, Gonzalo will present it to the community team that will be helping out with some of the organization.
+* [x] Check existing TTN efforts regarding security review (for potentially operating the platform on city infra):
+** [x] Johan Stokking (tech lead of TTN Global) confirmed that they will have an audit done by http://deloitte.com/ch/en.html[Deloitte].
+* [x] Check community interest for such a challenge (IoT, Java, JavaScript, Open Data):
+** [x] Community is definitely up for it. Six members of the community signed up to help out. There's a group forming on TTN-CH Slack for this purpose.
 
 === AsciiDoctor Format
 
