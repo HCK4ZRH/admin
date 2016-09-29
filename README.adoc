@@ -24,7 +24,7 @@ Initial planning.
 
 == Next meeting
 
-* 26th September, 17:00 @ Impact Hub Zurich, Auer & Co. Cafe
+* 24th October, 17:00 @ Impact Hub Zurich, Auer & Co. Cafe
 
 == Summary
 
@@ -69,13 +69,19 @@ The community network of The Things Network Zurich is used as communication link
 A storage and visualization infrastructure (potentially based on Grafana) will be provided for the participants.
 
 == TODOs
-* [ ] After feedback, we all will prioritize and decide on a sub-set of use cases, the estimate and budget for them, to enable sourcing all components required with enough time.
-* [ ] Simon will confirm with Andreas and Dennis about organization, logistics, budget, etc.
-* [ ] Simon/Andreas/Dennis will confirm if we can rent or partner to get some space at the Impact Hub for the OpenLab week. Perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?
+* [ ] Gonzalo will consolidate all community feedback by the end of September.
+* [ ] First week of October: Gonzalo and Urs will:
+** [ ] Prioritize and decide on a sub-set of use cases based on the community feedback
+** [ ] Provide estimates for hardware requirements for all short-listed challenges
+** [ ] Provide initial budget estimates for all short-listed challenges
+* [ ] End of October: budget should be approved by then. Location should be booked by then.
+* [ ] Simon/Andreas/Michael will confirm budget availability once requirements are clearer.
+* [ ] Simon/Andreas will check if we can rent or partner to get some space at the Impact Hub for the OpenLab week. Perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?
 * [ ] Gonzalo will arrange the details to get the infrastructure ready, including storage and visualization.
 * [ ] Confirm marketing material for the event. We prepared the following link:marketing-ideas.adoc[tentative ideas for a logo], but probably we need to go for a more professional design.
-* [ ] Check if Decentlab wants to be sponsor. Maybe even sponsor some equipment?
-* [ ] Identify interested stakeholders from the city and quartiervereine with real world challenges. Almost done, probably going to be completed with the fact sheet.
+* [ ] Check if there are interested partners for sponsoring challenges. Companies like Decentlab might be interested in sponsoring dedicated equipment for the event.
+* [x] Michael/Reto will get in touch with Oleg.
+* [x] Identify interested stakeholders from the city and quartiervereine with real world challenges.
 * [x] Simon will send Outlook invites for next meeting.
 * [x] Simon will prepare a fact sheet for the EWZ use cases and pass it on to Open Data Zurich
 * [x] Reto and Michael will add Open Data Zurich use cases to it, and pass it on to TTN Community
