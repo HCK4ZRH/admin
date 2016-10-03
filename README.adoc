@@ -58,9 +58,13 @@ Participants can walk-in, use the facilities and work on their projects, but the
 
 On Saturday morning, a more intense session begins: following more traditional hackathon schedules, participants get together to work on their projects for the weekend (maybe 32-hours? starting on Sat 8:00, ending on Sun 16:00?), after which the event closes on Sunday afternoon with the presentation of all projects.
 
-=== Use cases
+=== Challenges
 
-Still in progress. The initial list of challenges can be found https://drive.google.com/open?id=0B_DO0nUUQCrhRzBEMzhpVTlHR3M[on Google Drive].
+Still in progress.
+
+The current draft list of challenges can be found https://drive.google.com/open?id=0B_DO0nUUQCrhRzBEMzhpVTlHR3M[on Google Drive].
+
+In order to prioritize the challenges, the TTN community provided ranked feedback about preferences; these votes were fed into a Condorcet vote system (Schulze) that determined the order in which they appear on the document. The https://www.condorcet.vote/Vote/EDAFC0A08A/[vote can be publicly accessed here].
 
 === Infrastructure
 
@@ -69,7 +73,6 @@ The community network of The Things Network Zurich is used as communication link
 A storage and visualization infrastructure (potentially based on Grafana) will be provided for the participants.
 
 == TODOs
-* [ ] Gonzalo will consolidate all community feedback by the end of September.
 * [ ] First week of October: Gonzalo and Urs will:
 ** [ ] Prioritize and decide on a sub-set of use cases based on the community feedback
 ** [ ] Provide estimates for hardware requirements for all short-listed challenges
@@ -80,6 +83,7 @@ A storage and visualization infrastructure (potentially based on Grafana) will b
 * [ ] Gonzalo will arrange the details to get the infrastructure ready, including storage and visualization.
 * [ ] Confirm marketing material for the event. We prepared the following link:marketing-ideas.adoc[tentative ideas for a logo], but probably we need to go for a more professional design.
 * [ ] Check if there are interested partners for sponsoring challenges. Companies like Decentlab might be interested in sponsoring dedicated equipment for the event.
+* [x] Gonzalo will consolidate all community feedback by the end of September.
 * [x] Michael/Reto will get in touch with Oleg.
 * [x] Identify interested stakeholders from the city and quartiervereine with real world challenges.
 * [x] Simon will send Outlook invites for next meeting.
