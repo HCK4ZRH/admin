@@ -24,7 +24,7 @@ Initial planning.
 
 == Next meeting
 
-* 24th October, 17:00 @ Impact Hub Zurich, Auer & Co. Cafe
+* 10th November, 17:30 @ Impact Hub Zurich, Auer & Co. Cafe
 
 == Summary
 
@@ -32,7 +32,7 @@ Initial planning.
 The event is called `Make Zurich`. It has a more possitive tone to it than `Hack x` and it leverages the *maker movement* as a primary component of it.
 
 === Date
-The **tentative** date of the event is end of January 2017.
+The **tentative** date of the event is beginning of February 2017.
 
 === Location
 Impact Hub Zurich
@@ -40,7 +40,7 @@ Impact Hub Zurich
 === Format
 The event extends for one full week using the following structure:
 
-==== Event kickoff: Friday 27th January
+==== Event kickoff: Friday 3rd February
 
 The event starts with a presentation of use cases (challenges) by the City of Zurich and other stakeholders (e.g. Quartiervereine) on Friday afternoon. The hardware components required for the various challenges is made available to participants.
 
@@ -54,15 +54,13 @@ From Saturday to next Friday evening (inclusive), an OpenLab week is be availabl
 
 Participants can walk-in, use the facilities and work on their projects, but there won't be an active tutoring/mentoring in-place.
 
-==== Hackathon: Saturday 4th and Sunday 5th February
+==== Hackathon: Saturday 11th and Sunday 12th February
 
 On Saturday morning, a more intense session begins: following more traditional hackathon schedules, participants get together to work on their projects for the weekend (maybe 32-hours? starting on Sat 8:00, ending on Sun 16:00?), after which the event closes on Sunday afternoon with the presentation of all projects.
 
 === Challenges
 
-Still in progress.
-
-The current draft list of challenges can be found https://drive.google.com/open?id=0B_DO0nUUQCrhRzBEMzhpVTlHR3M[on Google Drive].
+The list of challenges can be found https://drive.google.com/open?id=0B_DO0nUUQCrhRzBEMzhpVTlHR3M[on Google Drive]. Although still draft, it has been prioritized and some challenges have been already ruled out to keep focus.
 
 In order to prioritize the challenges, the TTN community provided ranked feedback about preferences; these votes were fed into a Condorcet vote system (Schulze) that determined the order in which they appear on the document. The https://www.condorcet.vote/Vote/EDAFC0A08A/[vote can be publicly accessed here].
 
@@ -70,19 +68,28 @@ In order to prioritize the challenges, the TTN community provided ranked feedbac
 
 The community network of The Things Network Zurich is used as communication link to implement use cases.
 
-A storage and visualization infrastructure (potentially based on Grafana) will be provided for the participants.
+A storage and visualization infrastructure will be provided for the participants. Tentatively based on http://grafana.org/[Grafana] + https://www.mongodb.com/[MongoDB] or the https://www.influxdata.com/time-series-platform/influxdb/[TICK Stack] (composed by InfluxDB + friends).
+
+The project board for the event will be based on https://datalets.ch/dribdat/[Dribdat] (by https://datalets.ch/[Oleg]).
+
+The communication channel during the event will be https://slack.com/[Slack].
+
+The primary event's website will be http://makezurich16.ch[makezurich16.ch] and there will be a non-time-specific domain http://makezurich.ch[makezurich.ch] with a redirect to the former.
 
 == TODOs
-* [ ] First week of October: Gonzalo and Urs will:
-** [ ] Prioritize and decide on a sub-set of use cases based on the community feedback
-** [ ] Provide estimates for hardware requirements for all short-listed challenges
-** [ ] Provide initial budget estimates for all short-listed challenges
+* [ ] Urs/Gonzalo will arrange a meeting with the TTN community to define and select the hardware base platform to use.
+* [ ] Michael: check press release and possibility to use *Stadt Zurich* name directly (the alternative being Stadt Zurich Open Data / EWZ)
 * [ ] End of October: budget should be approved by then. Location should be booked by then.
 * [ ] Simon/Andreas/Michael will confirm budget availability once requirements are clearer.
 * [ ] Simon/Andreas will check if we can rent or partner to get some space at the Impact Hub for the OpenLab week. Perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?
 * [ ] Gonzalo will arrange the details to get the infrastructure ready, including storage and visualization.
 * [ ] Confirm marketing material for the event. We prepared the following link:marketing-ideas.adoc[tentative ideas for a logo], but probably we need to go for a more professional design.
 * [ ] Check if there are interested partners for sponsoring challenges. Companies like Decentlab might be interested in sponsoring dedicated equipment for the event.
+* [x] Domain registration
+* [x] First week of October: Gonzalo and Urs will:
+** [x] Prioritize and decide on a sub-set of use cases based on the community feedback
+** [x] Provide estimates for hardware requirements for all short-listed challenges
+** [x] Provide initial budget estimates for all short-listed challenges
 * [x] Gonzalo will consolidate all community feedback by the end of September.
 * [x] Michael/Reto will get in touch with Oleg.
 * [x] Identify interested stakeholders from the city and quartiervereine with real world challenges.
