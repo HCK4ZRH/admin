@@ -70,7 +70,7 @@ The community network of The Things Network Zurich is used as communication link
 
 A storage and visualization infrastructure will be provided for the participants. Tentatively based on http://grafana.org/[Grafana] + https://www.mongodb.com/[MongoDB] or the https://www.influxdata.com/time-series-platform/influxdb/[TICK Stack] (composed by InfluxDB + friends).
 
-The project board for the event will be based on https://datalets.ch/dribdat/[Dribdat] (by https://datalets.ch/[Oleg]).
+The project board for the event will be based on https://datalets.ch/dribdat/[Dribdat] (by https://github.com/loleg/[Oleg] - see http://dribdat.soda.camp/event/4[Example]).
 
 The communication channel during the event will be https://slack.com/[Slack].
 
