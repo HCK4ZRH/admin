@@ -2,10 +2,6 @@
 
 This is an initiative of the city of Zurich and the community to promote an open and shared IoT infrastructure and data exchange.
 
-== Status
-
-Initial planning.
-
 == Goals
 
 * Improve the city of Zurich with smart ideas and technology
@@ -15,16 +11,11 @@ Initial planning.
 
 == Ideas
 
-* Define/setup demo infrastructure
-* Collect real world use cases from the city and quartiervereine
-* Besides the real world use cases, there should always be a 'free track' to hack on any other problem
+* Collect real world use cases from the city and Quartiervereine
+* Besides the real world use cases, an open challenge will allow to hack freely on any other problem
 * Promote the goals of an open and shared IoT infrastructure with a hacker/maker challenge
 * Demonstrate the ability to implement real world use cases
 * Use successful use cases to further promote the goals
-
-== Next meeting
-
-* 10th November, 17:30 @ Impact Hub Zurich, Auer & Co. Cafe
 
 == Summary
 
@@ -32,15 +23,15 @@ Initial planning.
 The event is called `Make Zurich`. It has a more possitive tone to it than `Hack x` and it leverages the *maker movement* as a primary component of it.
 
 === Date
-The **tentative** date of the event is beginning of February 2017.
+The date of the event is end of January/beginning of February 2017.
 
 === Location
-Impact Hub Zurich
+Impact Hub Zurich at Viadukt https://zurich.impacthub.ch/space/bogen_d/[Event Space Bogen D]
 
 === Format
 The event extends for one full week using the following structure:
 
-==== Event kickoff: Friday 3rd February
+==== Event kickoff: Friday 27th January
 
 The event starts with a presentation of use cases (challenges) by the City of Zurich and other stakeholders (e.g. Quartiervereine) on Friday afternoon. The hardware components required for the various challenges is made available to participants.
 
@@ -54,9 +45,9 @@ From Saturday to next Friday evening (inclusive), an OpenLab week is be availabl
 
 Participants can walk-in, use the facilities and work on their projects, but there won't be an active tutoring/mentoring in-place.
 
-==== Hackathon: Saturday 11th and Sunday 12th February
+==== Hackathon: Friday 3rd and Saturday 4th February
 
-On Saturday morning, a more intense session begins: following more traditional hackathon schedules, participants get together to work on their projects for the weekend (maybe 32-hours? starting on Sat 8:00, ending on Sun 16:00?), after which the event closes on Sunday afternoon with the presentation of all projects.
+On Friday morning, a more intense session begins: following more traditional hackathon schedules, participants get together to work on their projects for the weekend (maybe 32-hours? starting on Friday 9:00, ending on Saturday 17:00), after which the event closes on Saturday afternoon with the presentation of all projects.
 
 === Challenges
 
@@ -74,34 +65,7 @@ The project board for the event will be based on https://datalets.ch/dribdat/[Dr
 
 The communication channel during the event will be https://slack.com/[Slack].
 
-The primary event's website will be http://makezurich16.ch[makezurich16.ch] and there will be a non-time-specific domain http://makezurich.ch[makezurich.ch] with a redirect to the former.
-
-== TODOs
-* [ ] Urs/Gonzalo will arrange a meeting with the TTN community to define and select the hardware base platform to use.
-* [ ] Michael: check press release and possibility to use *Stadt Zurich* name directly (the alternative being Stadt Zurich Open Data / EWZ)
-* [ ] End of October: budget should be approved by then. Location should be booked by then.
-* [ ] Simon/Andreas/Michael will confirm budget availability once requirements are clearer.
-* [ ] Simon/Andreas will check if we can rent or partner to get some space at the Impact Hub for the OpenLab week. Perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?
-* [ ] Gonzalo will arrange the details to get the infrastructure ready, including storage and visualization.
-* [ ] Confirm marketing material for the event. We prepared the following link:marketing-ideas.adoc[tentative ideas for a logo], but probably we need to go for a more professional design.
-* [ ] Check if there are interested partners for sponsoring challenges. Companies like Decentlab might be interested in sponsoring dedicated equipment for the event.
-* [x] Domain registration
-* [x] First week of October: Gonzalo and Urs will:
-** [x] Prioritize and decide on a sub-set of use cases based on the community feedback
-** [x] Provide estimates for hardware requirements for all short-listed challenges
-** [x] Provide initial budget estimates for all short-listed challenges
-* [x] Gonzalo will consolidate all community feedback by the end of September.
-* [x] Michael/Reto will get in touch with Oleg.
-* [x] Identify interested stakeholders from the city and quartiervereine with real world challenges.
-* [x] Simon will send Outlook invites for next meeting.
-* [x] Simon will prepare a fact sheet for the EWZ use cases and pass it on to Open Data Zurich
-* [x] Reto and Michael will add Open Data Zurich use cases to it, and pass it on to TTN Community
-* [x] Urs and Gonzalo will add TTN community use cases to it and send back.
-* [x] After fact sheet is ready, Gonzalo will present it to the community team that will be helping out with some of the organization.
-* [x] Check existing TTN efforts regarding security review (for potentially operating the platform on city infra):
-** [x] Johan Stokking (tech lead of TTN Global) confirmed that they will have an audit done by http://deloitte.com/ch/en.html[Deloitte].
-* [x] Check community interest for such a challenge (IoT, Java, JavaScript, Open Data):
-** [x] Community is definitely up for it. Six members of the community signed up to help out. There's a group forming on TTN-CH Slack for this purpose.
+The primary event's website will be http://makezurich.ch[makezurich.ch].
 
 === AsciiDoctor Format
 
