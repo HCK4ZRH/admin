@@ -1,4 +1,6 @@
-= Make Zurich: LoRaWAN hacker/maker event
+= Make Zurich
+
+*Civic tech and LoRaWAN hackathon for a better city*
 
 This is an initiative of the city of Zurich and the community to promote an open and shared IoT infrastructure and data exchange.
 
@@ -41,7 +43,7 @@ Team registration is open until the end of the evening.
 
 ==== Open Lab week
 
-From Saturday to next Friday evening (inclusive), an OpenLab week is be available at the Impact Hub Zurich (perhaps in partnership with https://zurich.impacthub.ch/de/community/makerzspace-tribe/[MakerZspace tribe]?).
+From Saturday to next Friday evening (inclusive), an OpenLab week is be available at (location to be confirmed).
 
 Participants can walk-in, use the facilities and work on their projects, but there won't be an active tutoring/mentoring in-place.
 
